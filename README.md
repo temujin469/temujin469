@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ---
 
 - 🎓 Aspiring Software Engineer  
-- 💪 Fitness & Nature enthusiast 🌿  
+- 💪 Fitness & Nature enthusiast   
 - 💡 Always curious, always building  
 
 ---
@@ -52,7 +52,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 📌 Projects
 - [🔥 Project 1](https://github.com/temujin469/Project1) → Short description here  
 - [⚡ Project 2](https://github.com/temujin469/Project2) → Another description  
 - [🌱 Project 3](https://github.com/temujin469/Project3) → And another  
