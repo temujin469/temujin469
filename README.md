@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ---
 
 - 🎓 Aspiring Software Engineer  
-- 💪 Fitness & Nature enthusiast   
+- 💪 Workout & Nature enthusiast   
 - 💡 Always curious, always building  
 
 ---
@@ -49,16 +49,10 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/SQL-FFCC00?style=for-the-badge&logo=databricks&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+<!--
 ---
 
 - [🔥 Project 1](https://github.com/temujin469/Project1) → Short description here  
 - [⚡ Project 2](https://github.com/temujin469/Project2) → Another description  
-- [🌱 Project 3](https://github.com/temujin469/Project3) → And another  
-
----
-
-![Snake animation](https://github.com/temujin469/temujin469/blob/output/snake.svg)
-
----
+- [🌱 Project 3](https://github.com/temujin469/Project3) → And another  ==>
 
