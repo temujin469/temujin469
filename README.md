@@ -54,5 +54,10 @@ Here are some ideas to get you started:
 
 - [🔥 Project 1](https://github.com/temujin469/Project1) → Short description here  
 - [⚡ Project 2](https://github.com/temujin469/Project2) → Another description  
-- [🌱 Project 3](https://github.com/temujin469/Project3) → And another  ==>
+- [🌱 Project 3](https://github.com/temujin469/Project3) → And another  -->
+
+---
+
+### 🐍 Contribution Snake
+![Snake animation](https://github.com/temujin469/temujin469/blob/output/github-contribution-grid-snake.svg)
 
