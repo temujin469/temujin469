@@ -66,3 +66,21 @@ Here are some ideas to get you started:
 ### 📈 GitHub Activity Graph
 [![Temuujin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=temujin469&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/temujin469/github-readme-activity-graph)
 
+---
+
+### 🧊 3D Contribution Graph
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contribution Graph Green](./profile-3d-contrib/profile-night-green.svg)
+![3D Contribution Graph Default](./profile-3d-contrib/profile-gitblock.svg)
+
+--- 
+
+### ⏱️ Weekly Coding Stats
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username)
+
+---
+
+### 📊 Metrics Dashboard
+![Metrics](https://metrics.lecoq.io/temujin469?template=classic&isocalendar=1&languages=1&stars=1&followup=1&people=1&notable=1)
+
+
