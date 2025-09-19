@@ -75,11 +75,6 @@ Here are some ideas to get you started:
 
 --- 
 
-### ⏱️ Weekly Coding Stats
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username)
-
----
-
 ### 📊 Metrics Dashboard
 ![Metrics](https://metrics.lecoq.io/temujin469?template=classic&isocalendar=1&languages=1&stars=1&followup=1&people=1&notable=1)
 
