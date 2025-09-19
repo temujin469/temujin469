@@ -1,0 +1,25 @@
+name: GitHub Profile 3D Contrib
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs once a day
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate 3d contribution graph
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Generate 3D graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          username: temujin469
+          # Available themes: 
+          # profile-night-rainbow.svg, profile-night-green.svg, profile-gitblock.svg, etc.
+      - name: Push 3D graph
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "generated 3d contribution graph"
+          add: "profile-3d-contrib/*.svg"
