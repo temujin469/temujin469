@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00FF00&lines=Software+Engineer;Open+Source+Enthusiast;Lifelong+Learner;Nature+Lover+%F0%9F%8C%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00FF00&lines=Computer+Science+Student;Lifelong+Learner;Nature+Lover+%F0%9F%8C%B3)](https://git.io/typing-svg)
 
 ---
 
-- 🎓 Aspiring Software Engineer  
+- 🎓 Aspiring Computer Science 
 - 💪 Workout & Nature enthusiast   
 - 💡 Always curious, always building  
 
